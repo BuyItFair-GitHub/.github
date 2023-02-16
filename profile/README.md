@@ -1,4 +1,4 @@
-<h1>Hi 👋, We are BuyItFair</h1>
+<h1>Hi 👋, we are BuyItFair</h1>
 <h3>An E-Commerce Company based in Germany</h3>
 
 - 🔭 We are currently working on our **[website](https://www.buyitfair.de)**
